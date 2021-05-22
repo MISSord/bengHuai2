@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: b6613f9b272d5f04b8a65051a9fcc7fe
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Reeji-CloudSongXiao-GBK
+  fontNames:
+  - Reeji-CloudSongXiao-GBK
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 5057f36ef05fdeb4dae17cdd66fbb479, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

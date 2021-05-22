@@ -1,0 +1,14 @@
+[core]
+	bare = true
+	repositoryformatversion = 0
+	filemode = false
+	symlinks = false
+	ignorecase = true
+[remote "origin"]
+	url = https://github.com/MISSord/bengHuai2.git
+	fetch = +refs/heads/*:refs/remotes/origin/*
+	pushurl = https://github.com/MISSord/bengHuai2.git
+[remote "master"]
+	url = https://github.com/MISSord/bengHuai2.git
+	fetch = +refs/heads/*:refs/remotes/master/*
+	tagopt = --no-tags

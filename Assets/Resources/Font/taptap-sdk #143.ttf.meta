@@ -1,0 +1,25 @@
+fileFormatVersion: 2
+guid: 67d5266b713022e44a575902fc62e955
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: icomoon
+  fontNames:
+  - icomoon
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 14e4b2512f0990b4aaf2ba5b799f5f25, type: 3}
+  - {fileID: 12800000, guid: 0befab9ab2cb6814c8edec699ed50a96, type: 3}
+  - {fileID: 12800000, guid: 4fd5015c191627940b5dbb09c9c64555, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
